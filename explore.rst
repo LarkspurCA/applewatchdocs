@@ -1,5 +1,5 @@
 How Does the Apple Watch Work?
-===========================
+=================================
 
 By Michael Hahn, April 2015
 
