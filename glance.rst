@@ -1,5 +1,5 @@
-First Watch Glance
-====================
+First Watch 'Glance'
+=====================
 
 By Michael Hahn, May 2015
 
