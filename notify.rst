@@ -1,9 +1,9 @@
-Hello World for Apple Watch
-===============================
+First Watch Notification
+=========================
 
-By Michael Hahn, April 2015
+By Michael Hahn, May 2015
 
-Hello World is our first application, by tradition. It has little functionality, but we do learn the playing field for wearable app development. 
+The notification context stream is one of the core functions for the Apple Watch. It consists of a message about timely information, such as incoming messages or upcoming appointments. It can also display useful information about a task at hand, such as workout status or recipe preparation. The watch initially displays a summary of the notification in the Short Look format, then advances to a Long Look if the user continues to view the notification. The Long Look is a scrollable display that includes notification details and Action Buttons. This section explains how to create your first watch notification.
 
 Create an iPhone App
 ---------------------
@@ -101,3 +101,5 @@ In Xcode, start the emulator and view the watch. If necessary, select Apple Watc
 
   .. figure:: images/helloworld.png
     :scale: 50
+
+  
