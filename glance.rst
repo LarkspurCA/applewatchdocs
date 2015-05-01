@@ -95,3 +95,7 @@ In Xcode, start the emulator and view the watch. If necessary, select Apple Watc
 
   .. figure:: images/glance.png
     :scale: 50
+	
+Example
+--------
+For the sample Xcode project, see https://github.com/LarkspurCA/applewatchglance.

@@ -12,7 +12,6 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   explore.rst
    glance.rst
    notify.rst
    contact.rst
